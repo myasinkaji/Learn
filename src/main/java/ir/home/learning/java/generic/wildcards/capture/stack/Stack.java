@@ -2,6 +2,7 @@ package ir.home.learning.java.generic.wildcards.capture.stack;
 
 import java.util.Collection;
 
+//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
 public class Stack<E> {
     private int index;
     private Object[] array;
